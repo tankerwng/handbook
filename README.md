@@ -31,6 +31,7 @@ contains pointers to more resources.
 
 * [401(k) Plan](benefits/401k-plan.md)
 * [529 Plan](benefits/529-plan.md)
+* [Alumni Referral Bonuses](benefits/alumni-referral-bonuses.md)
 * [Commission](benefits/commission.md)
 * [Conferences](benefits/conferences.md)
 * [Employee Referral Bonus](benefits/employee-referral-bonus.md)

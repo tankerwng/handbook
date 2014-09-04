@@ -10,4 +10,5 @@ Referrals to an apprenticeship who are eventually hired by thoughtbot or another
 
 ## Eligibility
 
-All employees of thoughtbot, including apprentices, are eligible for this benefit.
+All current and former employees of thoughtbot, including apprentices, are
+eligible for this benefit.
