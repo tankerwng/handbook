@@ -1,5 +1,8 @@
 # Paid Time Off
 
+This is the policy for the US offices. There is an [alternate policy if you are
+located in Sweden][stockholm].
+
 Our vacation policy is that employees can use their own judgment when taking time off and there will not be a set limit of time off per year that must be adhered to.
 
 Taking time off can affect thoughtbot's cash flow, project schedules, and client expectations, so we appreciate being informed as far ahead as possible.
@@ -36,3 +39,4 @@ Apprentices are eligible for paid time off as well, but time off should be limit
 [thoughtbot-calendar]: http://calendar.thoughtbot.com/
 [leave-of-absence]: work-leave.md
 [holiday-list]: ../policies/holidays.md
+[stockholm]: paid-time-off-se.md
