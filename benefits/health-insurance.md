@@ -68,7 +68,7 @@ This is only open to employees (primary subscribers, not your entire family.) Yo
 
 ## Fitness Benefit
 
-This is up to a $150 reimbursement if you belong to a health club. You can claim your Fitness Benefit after you’ve belonged to your health club and been a Blue Cross Blue Shield of Massachusetts member for a full four months (in a calendar year).
+You can be reimbursed for 3 months membership fees at a gym or up to 10 fitness classes. You can claim your Fitness Benefit after you’ve belonged to your health club and been a Blue Cross Blue Shield of Massachusetts member for a full four months (in a calendar year).
 
 [Enrollment form][fitness]
 
