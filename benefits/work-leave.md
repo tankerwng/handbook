@@ -60,4 +60,4 @@ Any employee who is requested to perform service as a juror shall be given unpai
 
 [pto-policy]: paid-time-off.md
 [outside-employment]: ../policies/outside-employment.md
-[std-insurance]:disabilty-insurance.md
+[std-insurance]:disability-insurance.md
