@@ -22,7 +22,7 @@ You can view your accounts and initiate transactions on the [American Funds webs
 
 You can access your account initially by going to the above website, click "Login", select "New User" and follow the prompts from there.
 
-To check what percentage of your paycheck goes to your 401k, use [BambooHR][bamboo-hr].
+To check what percentage of your paycheck goes to your 401k, use [Namely][namely].
 
 ## Eligibility
 
@@ -43,5 +43,5 @@ Anna Miragliuolo is an Authorized Signer (non-Trustee.)
 [benefits-email]: mailto:benefits@thoughtbot.com
 [american-funds-forms]: http://americanfundsretirement.retire.americanfunds.com/account/online-forms-rkd.htm#/forms
 [american-funds-website]: http://www.americanfunds.com/retire
-[bamboo-hr]: https://thoughtbot.bamboohr.com/dashboard/index.php
+[namely]: https://thoughtbot.namely.com
 [plan-admin-email]: mailto:MJageler@platinumpensions.com

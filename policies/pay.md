@@ -10,7 +10,7 @@ Please review your paycheck for errors. If you find an error, report it to [mana
 
 ## Direct Deposit
 
-Your pay will be deposited into your bank account through our direct deposit program. To edit your direct deposit information, use [BambooHR][bamboo-link]. Everyone who needs to know will be alerted when you do that.
+Your pay will be deposited into your bank account through our direct deposit program. To edit your direct deposit information, use [Namely][namely]. Everyone who needs to know will be alerted when you do that.
 
 ## Payroll System
 
@@ -47,5 +47,5 @@ In the rare circumstances where a client project prompts overtime, you should ta
 
 The above does not apply for non-exempt employees, and local regulations may forbid the above policy of compensatory time. In such cases, the employee will be paid overtime in accordance with local regulations.
 
-[bamboo-link]: https://thoughtbot.bamboohr.com/dashboard/index.php
+[namely]: https://thoughtbot.namely.com
 [viewpayroll-link]: https://www.viewpayroll.com/SPF/Login/Auth.aspx
