@@ -2,7 +2,7 @@
 
 ## Care of Company Property
 
-You are expected to demonstrate proper care when using the company's property and equipment. No property may be removed from the premises without the proper authorization of management. If you lose, break or damage any property, report it to your supervisor at once. In the event of loss or damage, you may be held financially liable.
+You are expected to demonstrate proper care when using the company's property and equipment. No property may be removed from the premises without the proper authorization of management. If you lose, break or damage any property, report it to your supervisor at once.
 
 Company property may include laptop and desktop computers, peripherals, cell phones, telephones, printers, scanners, fax machines, office keys/alarm codes and intellectual property.
 
