@@ -34,6 +34,7 @@ contains pointers to more resources.
 * [Alumni Referral Bonuses](benefits/alumni-referral-bonuses.md)
 * [Commission](benefits/commission.md)
 * [Conferences](benefits/conferences.md)
+* [Disability Insurance](benefits/disability-insurance.md)
 * [Employee Referral Bonus](benefits/employee-referral-bonus.md)
 * [Financial Planning](benefits/financial-planning.md)
 * [Health Insurance](benefits/health-insurance.md)
