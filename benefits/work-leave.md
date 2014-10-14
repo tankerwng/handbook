@@ -32,7 +32,7 @@ Employees are eligible for both paid and unpaid parental leave after the birth o
 
 Paid parental leave consists of 3 weeks paid time off for all new parents.
 
-An employee who gives birth also receives 5 weeks of short term disability for a natural birth and 7 weeks of short term disability for a c-section if parental leave is taken immediately following the birth. Short-term disability covers 60% of your salary up to a maximum benefit of $2,500 per week. 
+An employee who gives birth also receives 5 weeks of [short term disability][std-insurance] for a natural birth and 7 weeks of short term disability for a c-section if parental leave is taken immediately following the birth. 
 
 After exhausting paid parental leave, an employee may take unpaid parental leave for the remainder of the 6 months. 
 
@@ -60,3 +60,4 @@ Any employee who is requested to perform service as a juror shall be given unpai
 
 [pto-policy]: paid-time-off.md
 [outside-employment]: ../policies/outside-employment.md
+[std-insurance]:disability-insurance.md

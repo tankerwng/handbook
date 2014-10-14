@@ -37,6 +37,7 @@ contains pointers to more resources.
 * [Employee Referral Bonus](benefits/employee-referral-bonus.md)
 * [Financial Planning](benefits/financial-planning.md)
 * [Health Insurance](benefits/health-insurance.md)
+* [Life Insurance](benefits/life-insurance.md) 
 * [Paid Time Off](benefits/paid-time-off.md)
 * [Parking and Transportation](benefits/parking-and-transportation.md)
 * [Work Leave](benefits/work-leave.md)
