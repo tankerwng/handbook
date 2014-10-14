@@ -12,4 +12,4 @@ We provide long term disability insurance at no cost to full time US employees t
 
 For more details, please see the [disability & life insurance folder][benefits-disability-life].
 
-[benefits-disability-life]:https://www.dropbox.com/s/dpd5x3ngzu9ijbo/LTD%20Benefit%20Summary.pdf?dl=0
+[benefits-disability-life]:https://www.dropbox.com/sh/u3ad2f57domwqpg/AAC02vfLm588vmba22MFetdYa?dl=0
