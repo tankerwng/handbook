@@ -10,11 +10,11 @@ Once your leave is approved, proactively communicate with your team, clients, an
 
 ## Medical Insurance
 
-Unless otherwise stated, and to the extent allowed by the insurance contract, we will continue to provide medical insurance coverage during your leave. During this time, you will be responsible for paying the monthly premium(s) for your coverage.
+We will continue to provide medical insurance coverage during your leave. The company will continue to fully cover medical insurance premiums per company policy for up to 6 months.
 
 ## Benefits / Reviews
 
-Unless otherwise stated, your benefits will not continue to accrue, and you will not receive quarterly reviews during the period of leave.
+Unless otherwise stated, your benefits will not continue to accrue, and you will not receive quarterly reviews during the period of leave. For example, life and disability insurance do not continue during an unpaid leave of absence as they are tied to salary.
 
 ## Other Employment
 
@@ -28,7 +28,7 @@ Under special circumstances, employees may be granted a leave of absence without
 
 ### Parental Leave
 
-Employees are eligible for both paid and unpaid parental leave after the birth or adoption of a child. The paid and unpaid leave can be combined for up to 6 months of parental leave. The company will continue to fully cover medical insurance premiums per company policy for up to 6 months.
+Employees are eligible for both paid and unpaid parental leave after the birth or adoption of a child. The paid and unpaid leave can be combined for up to 6 months of parental leave.
 
 Paid parental leave consists of 3 weeks paid time off for all new parents.
 
