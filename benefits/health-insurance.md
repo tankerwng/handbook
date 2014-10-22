@@ -6,7 +6,7 @@ If you have questions regarding your health insurance, please email [benefits@th
 
 ## Eligibility
 
-Eligible full-time employees will be enrolled in the health plan immediately upon starting with thoughtbot. Apprentices are not eligible for Health Insurance. Apprentices who are promoted to Developer or Designer become eligible on the first day of their new position.
+All full-time employees will be enrolled in the health plan immediately upon starting with thoughtbot.
 
 ## Medical Insurance
 

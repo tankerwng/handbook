@@ -26,9 +26,7 @@ To check what percentage of your paycheck goes to your 401k, use [Namely][namely
 
 ## Eligibility
 
-Eligible full-time employees will be enrolled in the 401k plan 90 days after starting with thoughtbot.
-
-Apprentices are not eligible for the 401(k) plan. Apprentices who are promoted to Developer or Designer become eligible on the first day of their new position.
+All employees will be eligible to participate in the 401k plan 90 days after starting with thoughtbot.
 
 ## Rollovers
 

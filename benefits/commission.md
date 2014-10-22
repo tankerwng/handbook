@@ -21,9 +21,7 @@ Management may, from time to time, alter the commission payout schedule.
 
 ## Eligibility
 
-Eligible full-time employees can take advantage of this benefit upon starting
-with thoughtbot. Apprentices are also eligible for this benefit.
-
+All employees can take advantage of this benefit upon starting with thoughtbot.
 Commission is no longer paid to you when your employment with the company ends.
 
 ## Adjustments

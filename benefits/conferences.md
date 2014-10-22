@@ -6,9 +6,7 @@ To get approval to attend a conference, email your local manager and the company
 
 ## Eligibility
 
-Eligible full-time employees can take advantage of this benefit upon starting with thoughtbot.
-
-Apprentices are generally not eligible for this benefit unless they are invited to speak at a conference as a representative from thoughtbot. Also, apprentices who are promoted to Developer or Designer become eligible on the first day of their new position.
+All full-time employees can take advantage of this benefit upon starting with thoughtbot.
 
 ## Sign-up
 
