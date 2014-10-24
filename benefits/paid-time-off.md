@@ -6,7 +6,7 @@ Taking time off can affect thoughtbot's cash flow, project schedules, and client
 
 Use your best judgement and coordinate with your team, clients, and management to figure out whether some time you want to take off makes sense.
 
-Once you've identified the time you'll be taking off, [adjust your weekly schedule][harvest-schedule] to include the time off & proper category of PTO, [email admin][admin-email] and make sure the rest of your team and clients know you'll be off. Also, update your [personal thoughtbot calendar][thoughtbot-calendar].
+Once you've identified the time you'll be taking off, [adjust your weekly schedule][harvest-schedule] in Harvest to include the time off & proper category of PTO, [email admin][admin-email] and make sure the rest of your team and clients know you'll be off. Also, update your [personal thoughtbot calendar][thoughtbot-calendar].
 
 Whenever possible, time off requests are granted, taking into account operating requirements. If you've submitted your time off far enough in advance, you can assume that it is approved unless you hear otherwise.
 
