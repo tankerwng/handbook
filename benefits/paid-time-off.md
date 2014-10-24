@@ -6,7 +6,7 @@ Taking time off can affect thoughtbot's cash flow, project schedules, and client
 
 Use your best judgement and coordinate with your team, clients, and management to figure out whether some time you want to take off makes sense.
 
-Once you've identified the time you'll be taking off, [adjust your weekly schedule][team-schedule] to include the time off & proper category of PTO, [email admin][admin-email] and make sure the rest of your team and clients know you'll be off. Also, update your [personal thoughtbot calendar][thoughtbot-calendar].
+Once you've identified the time you'll be taking off, [adjust your weekly schedule][harvest-schedule] to include the time off & proper category of PTO, [email admin][admin-email] and make sure the rest of your team and clients know you'll be off. Also, update your [personal thoughtbot calendar][thoughtbot-calendar].
 
 Whenever possible, time off requests are granted, taking into account operating requirements. If you've submitted your time off far enough in advance, you can assume that it is approved unless you hear otherwise.
 
@@ -31,7 +31,7 @@ Apprentices are eligible for paid time off as well, but time off should be limit
 |PTO - Official Holiday (Helgdagar) | Non-working time-off because of an official company holiday. [Official list of Holidays][holiday-list]|
 |Unpaid leave (Tjänstledig) | An unpaid Leave of Absence from work.|
 
-[team-schedule]: http://team.thoughtbot.com/schedule
+[harvest-schedule]: https://thoughtbot.harvestapp.com/time
 [admin-email]: mailto:admin@thoughtbot.com
 [thoughtbot-calendar]: http://calendar.thoughtbot.com/
 [leave-of-absence]: work-leave.md
