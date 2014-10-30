@@ -26,6 +26,7 @@ contains pointers to more resources.
 * [Substance Abuse](policies/substance-abuse.md)
 * [Travel Overview](policies/travel-overview.md)
 * [Workplace Policies](policies/workplace-policies.md)
+* [Job Descriptions](policies/jobs.md)
 
 ## Benefits
 
