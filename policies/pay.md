@@ -6,7 +6,7 @@ If you are an employee in the US, you will be paid biweekly on Friday for the pe
 
 If a payday falls on a nonworking day, employees will be paid the preceding workday.
 
-Please review your paycheck for errors. If you find an error, report it to [management@thoughtbot.com](mailto:management@thoughtbot.com) immediately.
+Please review your paycheck for errors. If you find an error, report it to [accounting@thoughtbot.com](mailto:accounting@thoughtbot.com) immediately.
 
 ## Direct Deposit
 
@@ -16,7 +16,7 @@ Your pay will be deposited into your bank account through our direct deposit pro
 
 For US employees, we use [ViewPayroll][viewpayroll-link]. You can use it to view your pay stubs, pay dates, and W2/1099, and paycheck deductions (e.g. 401K). If you do not know your username/password for this, please [email benefits](mailto:benefits@thoughtbot.com).
 
-For employees outside of the US, we do not have payroll online. Please email [management@thoughtbot.com](mailto:management@thoughtbot.com) if you have questions about your payroll.
+For employees outside of the US, we do not have payroll online. Please email [accounting@thoughtbot.com](mailto:accounting@thoughtbot.com) if you have questions about your payroll.
 
 ## Paycheck Deductions
 
