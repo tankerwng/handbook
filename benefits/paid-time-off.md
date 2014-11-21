@@ -9,11 +9,25 @@ Taking time off can affect thoughtbot's cash flow, project schedules, and client
 
 Use your best judgement and coordinate with your team, clients, and management to figure out whether some time you want to take off makes sense.
 
-Once you've identified the time you'll be taking off, [adjust your weekly schedule][harvest-schedule] in Harvest to include the time off & proper category of PTO, [email admin][admin-email] and make sure the rest of your team and clients know you'll be off. Also, update your [personal thoughtbot calendar][thoughtbot-calendar].
+If you take an extended period of time off (more than 3 weeks) this is considered a leave of absence and will fall under the appropriate [leave of absence policy][leave-of-absence].
+
+## Permission
+
+Once you've identified the time you'll be taking off, [email admin][admin-email] to announce the time off, and to confirm that it won't cause a disruption.
 
 Whenever possible, time off requests are granted, taking into account operating requirements. If you've submitted your time off far enough in advance, you can assume that it is approved unless you hear otherwise.
 
-If you take an extended period of time off (more than 3 weeks) this is considered a leave of absence and will fall under the appropriate [leave of absence policy][leave-of-absence].
+## Tracking
+
+Since you're assuming the time is approved, you should:
+
+* Update your [personal thoughtbot calendar][thoughtbot-calendar] (Google Apps calendar), so that your team, MD, and local office know about your time off.
+* Update your future schedule in [Forecast][forecast-thoughtbot], so that anyone doing sales or working on scheduling knows that you are not available.
+* Update [your logged time][harvest-schedule] in Harvest to include the time off & proper category of PTO, so that our accounting is correct.
+
+Make sure the rest of your team and clients know you'll be off as well.
+
+After the time off occurs, double check Harvest to make sure the time off you planned is the same as the time off you took (confirm there were no last minute changes, extensions, etc.)
 
 ## Eligibility
 
@@ -40,3 +54,4 @@ Apprentices are eligible for paid time off as well, but time off should be limit
 [leave-of-absence]: work-leave.md
 [holiday-list]: ../policies/holidays.md
 [stockholm]: paid-time-off-se.md
+[forecast-thoughtbot]: https://forecastapp.com/89123/schedule/team
