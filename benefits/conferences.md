@@ -10,7 +10,7 @@ All full-time employees can take advantage of this benefit upon starting with th
 
 ## Sign-up
 
-Please sign-up to attend conferences on the appropriate conference spreadsheet, as prompted by your office manager or other conference attendance organizer.
+Please sign-up to attend conferences on the appropriate [conference spreadsheet][conference-spreadsheet]. If you are the first to sign-up, please add a sheet for the conference. Always ping your office manager once you have added your name to the conference spreadsheet. 
 
 Your office manager will book your travel & purchase your ticket.
 
@@ -19,3 +19,5 @@ If you are signing-up for a conference that sells out quickly, please purchase t
 ## Expenses while at the conference
 
 Use your company card for meals & transportation while at the conference. Then email all the receipts to reimbursements@thoughtbot.com so that the 50% you owe can be deducted from your paycheck. Please write the names of any other people included in the purchase on the receipt.
+
+[conference-spreadsheet]: https://docs.google.com/a/thoughtbot.com/spreadsheet/ccc?key=0AlXUkQCMCa_wdEhfMG5HbWNMLVl6YTNHYk1ZQng5QWc&usp=drive_web#gid=17
