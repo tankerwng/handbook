@@ -42,6 +42,7 @@ contains pointers to more resources.
 * [Life Insurance](benefits/life-insurance.md) 
 * [Paid Time Off](benefits/paid-time-off.md)
 * [Parking and Transportation](benefits/parking-and-transportation.md)
+* [Phone Plan](benefits/phone.md)
 * [Work Leave](benefits/work-leave.md)
 * [Workers' Compensation Insurance](benefits/workers-compensation-insurance.md)
 
