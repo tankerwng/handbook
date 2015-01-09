@@ -1,8 +1,9 @@
 # Handbook
 
 This is the thoughtbot employee handbook, which outlines company policies and
-employee benefits. The [Guidebook](https://github.com/thoughtbot/guidebook)
-contains pointers to more resources.
+employee benefits.
+
+Use [search.thoughtbot.com](https://search.thoughtbot.com) to find things.
 
 ## Policies
 
@@ -39,7 +40,7 @@ contains pointers to more resources.
 * [Employee Referral Bonus](benefits/employee-referral-bonus.md)
 * [Financial Planning](benefits/financial-planning.md)
 * [Health Insurance](benefits/health-insurance.md)
-* [Life Insurance](benefits/life-insurance.md) 
+* [Life Insurance](benefits/life-insurance.md)
 * [Paid Time Off](benefits/paid-time-off.md)
 * [Parking and Transportation](benefits/parking-and-transportation.md)
 * [Phone Plan](benefits/phone.md)
