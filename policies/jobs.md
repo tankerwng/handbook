@@ -187,3 +187,11 @@
   and our products
 * Work with other team members to develop, publish, and promote new audio visual
   projects
+
+## Apprentice
+
+The Apprentice will work alongside designers and developers at thoughtbot on all
+aspects of software projects, including sales, project planning, developing
+estimates, interaction design, visual design, writing code, testing, training,
+and any related documentation. The primary objective of the Apprentice on the
+team is to learn.
