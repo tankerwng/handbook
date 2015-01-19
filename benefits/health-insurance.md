@@ -54,7 +54,7 @@ You receive a Visa Debit card from Choice Strategies for using the DCA funds. Th
 
 ## Dental Insurance
 
-If you opt-in to dental insurance we’ll pay 50% of the cost of the Basic, Preventative Plan. If you opt in your costs would be $8.72/month for an individual and $28.52/month for a family.
+Dental Insurance is through Principal Financial Group. If you opt-in to dental insurance we’ll pay 50% of the cost of the Basic, Preventative Plan. If you opt in your costs would be $8.72/month for an individual and $28.52/month for a family.
 
 You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  Compare the plans and view the entire Enhanced plan description in the [Dental folder][benefits-dental].
 
