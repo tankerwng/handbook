@@ -58,6 +58,8 @@ Dental Insurance is through Principal Financial Group. If you opt-in to dental i
 
 You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  Compare the plans and view the entire Enhanced plan description in the [Dental folder][benefits-dental].
 
+[Find a dentist][dentist-search] in your area.
+
 ## Healthy Actions 
 
 You can get a $300 Visa gift card for being relatively healthy, getting a physical and submitting a simple form. If you're doctor wants you to get healthier, you'll receive $100 gift card after you submit the form and the remaining $200 if you achieve your goal. 
@@ -102,3 +104,4 @@ Upon termination you may be entitled to continuation or conversion of the group 
 [healthy-actions]: https://basecamp.com/1719045/projects/4290451/messages/24926543
 [fitness]: https://www.dropbox.com/sh/oax6yy3ltecyhji/AACwXnr8_HBH3YP34DDmjGy7a/Health%20Insurance/2014_Fitness_Benefit_Form.pdf
 [benefits-dental]: https://www.dropbox.com/sh/va790z37kyv35ib/AAB2hImQFKZWQFjfaxLehe-da
+[dentist-search]: http://c3.go2dental.com/member/dental_search/provsel.cgi
